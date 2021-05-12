@@ -3,7 +3,7 @@ An Implementation of the paper 'Real-Time Adjustable Style Transfer' of ICLR 202
 
 ---
 ## Abstract
-[Babaeizadeh and Ghiasi](https://iclr.cc/virtual_2020/poster_HJe_Z04Yvr.html) is a paper submitted to the ICLR 2020 conference, entitled ‘Adjustable Real-Time Style Transfer’,  involving  the  inclusion  of  a  secondary  network  to  facilitate  adjusting  of  tuning  hyperparameterswithout  retraining  the  original  network,  which  would  otherwise  require  many  hours  of  computation.   Thisdocument  reports  an  attempt  to  recreate  the  paper’s  findings,  using  examples  of  produced  stylised  images,reproduced figures and descriptions of the difficulties and nuances of reproducing the described network.
+[‘Adjustable Real-Time Style Transfer’ (ICLR 2020)](https://iclr.cc/virtual_2020/poster_HJe_Z04Yvr.html) addresses the inclusion of a secondary conditioner net-work  to  adjust  hyperparameters  without  retraining  a  style  transfer  network,  otherwise  requiring  hours  ofcomputation.  This  document  attempts  to  recreate  the  paper’s  findings,  by  reproducing  figures  and  describ-ing  the  difficulties  and  nuances  in  reproducing  the  described  network.   Relevant  code  can  be  found  at  theReal-Time-Adjustable-Style-Transferrepository(git.io/JsT1E)
 
 ---
 ## Team Members
